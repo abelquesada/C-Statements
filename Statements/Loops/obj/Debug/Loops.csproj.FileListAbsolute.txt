@@ -1,0 +1,6 @@
+C:\cenfotec\C-Statements\Statements\Loops\bin\Debug\Loops.exe.config
+C:\cenfotec\C-Statements\Statements\Loops\bin\Debug\Loops.exe
+C:\cenfotec\C-Statements\Statements\Loops\bin\Debug\Loops.pdb
+C:\cenfotec\C-Statements\Statements\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\cenfotec\C-Statements\Statements\Loops\obj\Debug\Loops.exe
+C:\cenfotec\C-Statements\Statements\Loops\obj\Debug\Loops.pdb
